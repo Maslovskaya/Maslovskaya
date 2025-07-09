@@ -28,6 +28,7 @@
 
 **Languages**
 - English: level B1 (reading technical literature, business correspondence)
+- Russian C2 (native speaker)
 
 ## Education and courses
 
