@@ -43,7 +43,6 @@ Main disciplines: Assembler, Python, C++
 ### Telegram bot for a startup
 - Developing a bot in Python for customer accounting and sending notifications
 - Storing data in SQLite, processing commands and integrating with API
-- Repository: https://github.com/your_name/telegram-bot
 
 ### Educational web projects
 - Websites, manually laid out in HTML/CSS with adaptive layout
