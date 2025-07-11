@@ -62,12 +62,11 @@ Main disciplines: Assembler, Python, C++
 - Work in a team, participate in real projects and code reviews
 - Strive for constant growth and ready for new challenges
 
-> Ready for an internship or part-time employment.
+## Ready for an internship or part-time employment.
+### Contact me: 💬
+- maslovskayaksenya228@gmail.com - email
+- @masllllo - Telegram
+- @maslolox - Instagran
 
-> Contact me: 💬
-> maslovskayaksenya228@gmail.com - email
-> @masllllo - Telegram
-> @maslolox - Instagran
->
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maslovskaya&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maslovskaya&layout=compact&langs_count=8)
 
