@@ -6,7 +6,7 @@
 
 ## Skills
 
-**Programming languages**
+**Programming languages** ❤️
 
 - Python (certificates of completed courses)
 - OOP: basic concepts and usage examples
@@ -30,7 +30,7 @@
 - English: level B1 (reading technical literature, business correspondence)
 - Russian C2 (native speaker)
 
-## Education and courses
+## Education and courses 💼
 
 - **BNTU**, IT specialty (PI, qualification engineer-software engineer)
 Main disciplines: Assembler, Python, C++
@@ -55,7 +55,7 @@ Main disciplines: Assembler, Python, C++
 - Script writing
 - Code layout
 
-## Goals and motivation
+## Goals and motivation 📈
 
 - Get practical experience in commercial development in Python
 - Improve web development skills (Django, frontend)
@@ -64,4 +64,10 @@ Main disciplines: Assembler, Python, C++
 
 > Ready for an internship or part-time employment.
 
-> Contact me: maslovskayaksenya228@gmail.com
+> Contact me: 💬
+> maslovskayaksenya228@gmail.com - email
+> @masllllo - Telegram
+> @maslolox - Instagran
+>
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maslovskaya&layout=compact&langs_count=8)
+
