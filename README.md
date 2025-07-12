@@ -39,22 +39,6 @@ Main disciplines: Assembler, Python, C++
 - **Udemy**, HTML & CSS & JavaScript
 - Certificates in various Python courses
 
-## Projects
-
-### Telegram bot for a startup
-- Developing a bot in Python for customer accounting and sending notifications
-- Storing data in SQLite, processing commands and integrating with API
-
-### Educational web projects
-- Websites, manually laid out in HTML/CSS with adaptive layout
-- Adding interactivity in JavaScript
-- Publications on Tilda and Google Sites
-
-### Text game in Python
-- Plot development
-- Script writing
-- Code layout
-
 ## Goals and motivation 📈
 
 - Get practical experience in commercial development in Python
